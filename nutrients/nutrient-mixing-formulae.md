@@ -41,9 +41,10 @@ injector set to a 100:1 concentration?
 
    _(150 milligrams N)/(1 L water) * (1 g N)/(1000 mg N) * (100 g Fertilizer)/(20 g N)_
 
-   - Multiply this by the amount of water (in Liters) in our stock tank.
+   - Multiply this by the amount of water (in Liters) in our stock tank and since the injection ratio is 100:1  
+   i.e., 1 liter of nutrient solution mixed for every 100 liters of water, we also multiply it by this number.
    
-   ***(150 mg N)/(1 L water) * (1 g N)/(1000 mg N) * (100 g Fertilizer)/(20 g N) * (20 L)***  
+   ***(150 mg N)/(1 L water) * (1 g N)/(1000 mg N) * (100 g Fertilizer)/(20 g N) * (20 L) * (100 L water)/(1 Liter Stock)***  
    **This is the first basic equation**
 
    - We just determined that we need to add **X** grams of fertilizer to supply **Y** ppm of Nitrogen using a 100:1  
@@ -55,3 +56,5 @@ injector set to a 100:1 concentration?
    want are ppm or mg/l. As with the previous calculation, we will use our givens until we end up with these  
    units.
    - This is basically the first calculation in reverse.
+   _1500 g Fertilizer/20 Liter Stock_
+   - Multiply by the concentration of the nutrient solution.
