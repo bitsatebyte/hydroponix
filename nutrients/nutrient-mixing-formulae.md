@@ -28,8 +28,30 @@ injector set to a 100:1 concentration?
    - Start by writing down the concentration you want to end up with. In this case, 150 ppm of N
    or 150 mg/l
 
-   *(150 milligrams N)/1 liter water*
+   _(150 milligrams N)/1 liter water_
 
    - Now begin to convert this into what you want to end up with. In this case, grams of fertilizer to add to a
    20-Liter tank using a 100:1 injector concentration.
+   
+   **(150 mg N)/(1 L water) * (1 g N)/(1000 mg N)**
+   - This gets us the result in **g Nitrogen/L**  
+   - Continue this process and convert grams of Nitrogen to grams of fertilizer.
+   - Since our fertilizer is a 20-10-20, it means that it has 20% Nitrogen. In other words, 100 grams of  
+   fertilizer contains 20 grams of Nitrogen.
 
+   _(150 milligrams N)/(1 L water) * (1 g N)/(1000 mg N) * (100 g Fertilizer)/(20 g N)_
+
+   - Multiply this by the amount of water (in Liters) in our stock tank.
+   
+   ***(150 mg N)/(1 L water) * (1 g N)/(1000 mg N) * (100 g Fertilizer)/(20 g N) * (20 L)***  
+   **This is the first basic equation**
+
+   - We just determined that we need to add **X** grams of fertilizer to supply **Y** ppm of Nitrogen using a 100:1  
+   concentration. The fertilizer we used was 20-10-20.
+
+   - So, in addition to the Nitrogen, we are also adding Phosphorous and Potassium.
+   - The next equation will determine how much Phosphorous and Potassium we are adding.
+   - Start off with the amount of fertilizer we are adding to our stock tank. The final units we  
+   want are ppm or mg/l. As with the previous calculation, we will use our givens until we end up with these  
+   units.
+   - This is basically the first calculation in reverse.
