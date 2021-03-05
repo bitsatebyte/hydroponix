@@ -351,7 +351,7 @@ nutrients are added. With all mixed together in a dry mix you have the dry mix e
 | S. No. | Chemical                 | Concentration (***mg/L***) |
 | ------ | ------------------------ | -------------------------- |
 | 1.     | Magnesium Sulphate       | 92307.70                   |
-| 3.     | Mono Potassium Phosphate | 76528.90                   |
+| 2.     | Mono Potassium Phosphate | 76528.90                   |
 | 3.     | Dipotassium Phosphate    | 25013.80                   |
 
 <br>
@@ -363,10 +363,10 @@ nutrients are added. With all mixed together in a dry mix you have the dry mix e
 | 1.     | Calcium Nitrate   | 263157.90                  |
 | 2.     | Potassium Nitrate | 21611.34                   |
 | 3.     | Ammonium Nitrate  | 17158.31                   |
-| 7.     | Fe-Chelated       | 5555.55                    |
-| 9.     | Mn-Chelated       | 2777.78                    |
-| 10.    | Zn-Chelated       | 625.00                     |
-| 11.    | Mo-Chelated       | 100.00                     |
+| 4.     | Fe-Chelated       | 5555.55                    |
+| 5.     | Mn-Chelated       | 2777.78                    |
+| 6.     | Zn-Chelated       | 625.00                     |
+| 7.     | Mo-Chelated       | 100.00                     |
 
 <br>
 
@@ -377,10 +377,10 @@ nutrients are added. With all mixed together in a dry mix you have the dry mix e
 | 1.     | Calcium Nitrate   | 113106.30                  |
 | 2.     | Potassium Nitrate | 21611.34                   |
 | 3.     | Ammonium Nitrate  | 52631.58                   |
-| 7.     | Fe-Chelated       | 5555.55                    |
-| 9.     | Mn-Chelated       | 2777.78                    |
-| 10.    | Zn-Chelated       | 935.00                     |
-| 11.    | Mo-Chelated       | 225.00                     |
+| 4.     | Fe-Chelated       | 5555.55                    |
+| 5.     | Mn-Chelated       | 2777.78                    |
+| 6.     | Zn-Chelated       | 935.00                     |
+| 7.     | Mo-Chelated       | 225.00                     |
 
 <br>
 
@@ -391,16 +391,16 @@ nutrients are added. With all mixed together in a dry mix you have the dry mix e
 | 1.     | Calcium Nitrate          | 34.34597                    |
 | 2.     | Magnesium Sulphate       | 22.19637                    |
 | 3.     | Potassium Nitrate        | 22.12855                    |
-| 3.     | Mono Potassium Phosphate | 9.57764                     |
-| 3.     | Ammonium Nitrate         | 7.37428                     |
-| 3.     | Potassium Sulphate       | 2.09633                     |
-| 3.     | Dipotassium Phosphate    | 1.12112                     |
-| 7.     | Fe-Chelated (*18%*)      | 0.72508                     |
+| 4.     | Mono Potassium Phosphate | 9.57764                     |
+| 5.     | Ammonium Nitrate         | 7.37428                     |
+| 6.     | Potassium Sulphate       | 2.09633                     |
+| 7.     | Dipotassium Phosphate    | 1.12112                     |
+| 8.     | Fe-Chelated (*18%*)      | 0.72508                     |
 | 9.     | Mn-Chelated (*18%*)      | 0.30212                     |
 | 10.    | Zn-Chelated (*20%*)      | 0.08212                     |
 | 11.    | Mo-Chelated (*8%*)       | 0.02719                     |
-| 11.    | Cu-Chelated (*17%*)      | 0.01599                     |
-| 11.    | B-Chelated (*15%*)       | 0.00725                     |
+| 12.    | Cu-Chelated (*17%*)      | 0.01599                     |
+| 13.    | B-Chelated (*15%*)       | 0.00725                     |
 
 <br>
 
@@ -408,18 +408,18 @@ nutrients are added. With all mixed together in a dry mix you have the dry mix e
 
 | S. No. | Chemical                 | Percentage by Wt. (***%***) |
 | ------ | ------------------------ | --------------------------- |
-| 2.     | Magnesium Sulphate       | 32.15513                    |
-| 1.     | Calcium Nitrate          | 27.50111                    |
+| 1.     | Magnesium Sulphate       | 32.15513                    |
+| 2.     | Calcium Nitrate          | 27.50111                    |
 | 3.     | Dipotassium Phosphate    | 16.76703                    |
-| 3.     | Mono Potassium Phosphate | 16.07378                    |
-| 3.     | Magnesium Nitrate        | 5.27545                     |
-| 3.     | Mono Ammonium Phosphate  | 0.77402                     |
-| 3.     | Ammonium Nitrate         | 0.74780                     |
-| 7.     | Fe-Chelated (*18%*)      | 0.58058                     |
-| 10.    | Zn-Chelated (*20%*)      | 0.05748                     |
-| 11.    | Cu-Chelated (*17%*)      | 0.03688                     |
-| 11.    | Mo-Chelated (*8%*)       | 0.01437                     |
-| 11.    | B-Chelated (*15%*)       | 0.00697                     |
-| 9.     | Mn-Chelated (*18%*)      | 0.00581                     |
-| 9.     | Co-Chelated (*16%*)      | 0.00359                     |
+| 4.     | Mono Potassium Phosphate | 16.07378                    |
+| 5.     | Magnesium Nitrate        | 5.27545                     |
+| 6.     | Mono Ammonium Phosphate  | 0.77402                     |
+| 7.     | Ammonium Nitrate         | 0.74780                     |
+| 8.     | Fe-Chelated (*18%*)      | 0.58058                     |
+| 9.     | Zn-Chelated (*20%*)      | 0.05748                     |
+| 10.    | Cu-Chelated (*17%*)      | 0.03688                     |
+| 12.    | Mo-Chelated (*8%*)       | 0.01437                     |
+| 13.    | B-Chelated (*15%*)       | 0.00697                     |
+| 14.    | Mn-Chelated (*18%*)      | 0.00581                     |
+| 15.    | Co-Chelated (*16%*)      | 0.00359                     |
 
