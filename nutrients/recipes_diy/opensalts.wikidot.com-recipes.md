@@ -2,11 +2,19 @@
 
 ## Table of Contents  
 
----
+  1. Skunkwerksrx
+  2. Nectar For The Gods
+  3. DynaGro
+  4. General Hydroponics
+  5. Fatman
+  6. Jacks Peters
+  7. Botanicare
+
+<br>
 
 ## Commercial Nutrient Recipes  
 
-<br>
+<br>  
 
 ### **1. Skunkwerksrx**  
   

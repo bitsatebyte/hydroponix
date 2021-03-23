@@ -10,7 +10,7 @@ The basis for mixing your own nutrient formulation is rather easy. All nutrient 
 - Zinc
 - Copper
 - Molybdate
-- Sulfur
+- Sulphur
 
 In addition to these above trace nutrients, which are found in very small amounts, we have the meat and potatoes of nutrient formulas, which is **NPK-Ca-Mg**  
 
@@ -85,25 +85,16 @@ Amounts are in ***Grams*** : Final *ppm* each nutrient: N=176, P=133, K=300, M=1
 
 
 This recipe is for a x100 concentrate. That means a combination of 9.46353 Liters of Part A. And 9.46353 Liters of Part B to which the trace nutrients are added.  
-With all mixed together in a dry mix you have the dry mix equivalent of Floro Nova Bloom without the added humus.
+With all mixed together in a dry mix you have the dry mix equivalent of Flora Nova Bloom without the added humus.
 
 
 ## Reasons for mixing?
 
 There are already hundreds of other manufacturers producing nutrients at much cheaper costs than those sold by AN or GH.
 
-I am saying that given the true analysis of any fertilizer product that the same nutrient of the same quality can be mixed in y a home.  
+I am saying that given the true analysis of any fertilizer product, the same nutrient of the same quality can be mixed in your home.  
 
-As far as AN I have the complete analysis on 22 fertilizers produced by them. The other eight formulations contain supplements that they have not  
-willingly disclosed. I have the chemical analyisis on the fertilizers but not the analysis of the supplements. As a result, those products can not be sold   
-in those states requring full disclosure. However with most of those it is just humic and fulvic acids that have been added. Their supplments I have no information on  
-other than the few that the university analyzed. That is not public information so I can not release that info. Just about every manufacturer except  
-AN readily releases full analysis data freely even on their supplements.  
-
-Here is the Washington state site for fertilizers. http://agr.wa.gov/PestFert/Fertilize...iewTable&ltr=G As you will see there are many hundres of fertilizer gurantedd  
-analysis give. All you need to formulate any know n fertilzer is the guranateed anaysis. You will notice though that there are no AN analysis on the Washington State site.  
-AN goes out of its way to make as much maney as it can while it can. Washington state just wont play the AN games so the AN products can not be sold there.  
-
+All you need to formulate any known fertilzer is the guaranteed analysis. You will notice though that there are no AN analysis on the Washington State site.  
 
 For a PK booster simply buy Monopotassium phosphate. It is used in about 95% of all the competitor two or three part formulas.  
 Mono-Potassium Phosphate  
